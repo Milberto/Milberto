@@ -2,8 +2,8 @@
 
 My name's Mila (she/her), I'm a PhD student in Neuroscience at McGill University. I'm working on questions to do with the origins of music, using tools from cross-cultural work, developmental psychology, and cross-species comparisons. 
 
-📫 How to reach me: [first name] dot bertolo at mail.mcgill.ca
-🐦: @mila_bertolo 
+📫 How to reach me: [first name] dot bertolo at mail.mcgill.ca  
+🐦: @mila_bertolo   
 
 <!--
 **Milberto/Milberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
