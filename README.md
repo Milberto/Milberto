@@ -2,8 +2,8 @@
 
 My name's Mila (she/her), I'm a PhD student in Neuroscience at McGill University. I'm working on questions to do with the origins of music, using tools from cross-cultural work, developmental psychology, and cross-species comparisons. I'm based at the [Sakata Lab](https://sakatasongbirdlab.wordpress.com/) and the [Peretz Lab](https://peretzlab.ca/), and am an affiliated graduate student at [The Music Lab](https://www.themusiclab.org/).
 
-📫 How to reach me: [first name] dot bertolo at mail.mcgill.ca    
-🐦 Twitter: [@mila_bertolo](https://twitter.com/mila_bertolo)       
+📫 How to reach me: mila.bertolo[at]mail.mcgill.ca    
+🐘 Mastodon: [mila@fediscience.org](https://fediscience.org/web/@mila)       
 🎓 Publications: on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=68Vjn3QAAAAJ) and [ORCID](https://orcid.org/0000-0002-3931-2293)     
 
 <!--
