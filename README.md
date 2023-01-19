@@ -4,7 +4,7 @@ My name's Mila (she/her), I'm a PhD student in Neuroscience at McGill University
 
 📫 How to reach me: mila.bertolo[at]mail.mcgill.ca    
 🐘 Mastodon: [mila@fediscience.org](https://fediscience.org/web/@mila)       
-🎓 Publications: on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=68Vjn3QAAAAJ) and [ORCID](https://orcid.org/0000-0002-3931-2293)     
+🎓 Publications: on my [Google Scholar](https://scholar.google.com/citations?user=ZdF75hcAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-3931-2293)     
 
 <!--
 **Milberto/Milberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
